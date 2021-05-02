@@ -1,6 +1,6 @@
 import React from "react";
 
-function TodoItem() {
+function TodoItem(props) {
   return (
     <div>
       <div className="row mx-2 align-items-center">
